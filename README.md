@@ -20,4 +20,4 @@ cd GPT
 python3 Gpt.py
 
 # Jangan lupa follow tiktok gw #
-Tiktok : tiktok.com/@thonxyzz404
+Tiktok : tiktok.com/@thxyzz404
